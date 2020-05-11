@@ -1,0 +1,3 @@
+Code=122PTI Telnet Server. Ver. 2.08, 0572139
+Code=122PTI Telnet Server. Ver. 2.08, 0572139
+ Code=128, 0572139 Denied

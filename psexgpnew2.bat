@@ -1,0 +1,1 @@
+psexec \\157.55.164.224 -u xxxx -p xxxx "C:\Program Files (x86)\DoorSwapGatePoll\plgpnew.bat" %1
